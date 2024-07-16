@@ -1,0 +1,13 @@
+sounddevice
+pynput
+scipy
+cryptography
+requests
+pillow
+bs4
+beautifulsoup4
+psutil
+pandas
+numpy
+scikit-learn
+pywin32
